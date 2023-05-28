@@ -45,8 +45,8 @@
 Этим на данный момент занимается ChatGPT. Но мы иузучили большое количество других моделе LLM. И выяснили, что имея хоршее железо вы можете запустить менее мощные, но достаточные для этой задачи модели по типу:[OpenAssistant](https://huggingface.co/MetaIX/OpenAssistant-Llama-30b-4bit/tree/main)
 
 ## Наша команда
-- Филенков Алексей
-- Князев Александр
-- Глебов Павел
-- Кузин Василий
-- Мартынович Степан
+- Филенков Алексей: <a href="https://github.com/Aleshka5">Aleshka5</a><br>
+- Князев Александр: <a href="https://github.com/Squderini">Squderini</a><br>
+- Глебов Павел: <a href="https://github.com/Pavel-hb">Pavel-hb</a><br>
+- Кузин Василий: 
+- Мартынович Степан: <a href="https://github.com/Stedjey">Stedjey</a><br>
